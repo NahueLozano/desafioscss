@@ -94,4 +94,14 @@ footer {
 .container-fluid {
   background-color: #ffce0b;
 }
+
+.parrafosConEstilo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.parrafosConEstilo {
+  background-color: #ebebeb;
+}
 /*# sourceMappingURL=estilos.css.map */
